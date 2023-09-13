@@ -1,0 +1,19 @@
+{
+  "Author": "C",
+  "Name": "DutyLeaver",
+  "InternalName": "DutyLeaver",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "Allows you to instantly and Automatically leave duties with a single command.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/cielo-h/DutyLeaver",
+  "Tags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Instant Leave Duties.",
+  "AcceptsFeedback": true
+}
