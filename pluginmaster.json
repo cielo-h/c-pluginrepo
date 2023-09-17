@@ -3,7 +3,7 @@
         "Author": "C",
         "Name": "DutyLeaver",
         "InternalName": "DutyLeaver",
-        "AssemblyVersion": "1.1.5.0",
+        "AssemblyVersion": "1.1.6.0",
         "Description": "Allows you to instantly and Automatically leave duties with a single command.",
         "RepoUrl": "https://github.com/cielo-h/DutyLeaver",
         "ApplicableVersion": "any",
