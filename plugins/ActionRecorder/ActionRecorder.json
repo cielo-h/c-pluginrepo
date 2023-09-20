@@ -1,0 +1,19 @@
+{
+  "Author": "C",
+  "Name": "ActionRecorder",
+  "InternalName": "ActionRecorder",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Record action",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "action",
+    "record",
+    "util"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Record your action",
+  "AcceptsFeedback": true
+}
