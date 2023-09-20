@@ -2,9 +2,10 @@
   "Author": "C",
   "Name": "ActionRecorder",
   "InternalName": "ActionRecorder",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "Record action",
   "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/cielo-h/ActionRecorder",
   "Tags": [
     "action",
     "record",
