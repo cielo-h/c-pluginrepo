@@ -4,7 +4,7 @@
         "Name": "ActionRecorder",
         "Description": "Record action",
         "InternalName": "ActionRecorder",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "RepoUrl": "https://github.com/cielo-h/ActionRecorder",
         "ApplicableVersion": "any",
         "Tags": [
@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1695220988"
+        "LastUpdated": "1695444945"
     },
     {
         "Author": "C",
@@ -39,6 +39,6 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1695220988"
+        "LastUpdated": "1695444945"
     }
 ]
