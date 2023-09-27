@@ -1,0 +1,19 @@
+{
+  "Author": "C",
+  "Name": "BigDamage Plugin",
+  "InternalName": "BigDamagePlugin",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "This plugin will show you the dream",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "flytext",
+    "plugin",
+    "C"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "This plugin makes you happy.",
+  "AcceptsFeedback": true
+}
