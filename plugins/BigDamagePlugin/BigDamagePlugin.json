@@ -2,9 +2,10 @@
   "Author": "C",
   "Name": "BigDamage Plugin",
   "InternalName": "BigDamagePlugin",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "This plugin will show you the dream",
   "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/cielo-h/BigDamagePlugin",
   "Tags": [
     "flytext",
     "plugin",
