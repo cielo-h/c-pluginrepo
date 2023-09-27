@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1695788658"
+        "LastUpdated": "1695820297"
     },
     {
         "Author": "C",
@@ -39,14 +39,15 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1695788658"
+        "LastUpdated": "1695820297"
     },
     {
         "Author": "C",
         "Name": "BigDamage Plugin",
         "Description": "This plugin will show you the dream",
         "InternalName": "BigDamagePlugin",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
+        "RepoUrl": "https://github.com/cielo-h/BigDamagePlugin",
         "ApplicableVersion": "any",
         "Tags": [
             "flytext",
@@ -60,6 +61,6 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/BigDamagePlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/BigDamagePlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1695788658"
+        "LastUpdated": "1695820297"
     }
 ]
