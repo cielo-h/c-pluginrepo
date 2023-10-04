@@ -4,7 +4,7 @@
         "Name": "ActionRecorder",
         "Description": "Record action",
         "InternalName": "ActionRecorder",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.0.3",
         "RepoUrl": "https://github.com/cielo-h/ActionRecorder",
         "ApplicableVersion": "any",
         "Tags": [
@@ -12,14 +12,14 @@
             "record",
             "util"
         ],
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1696367499"
+        "LastUpdated": "1696403825"
     },
     {
         "Author": "C",
@@ -39,7 +39,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1696367499"
+        "LastUpdated": "1696403825"
     },
     {
         "Author": "C",
@@ -61,6 +61,6 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/BigDamagePlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/BigDamagePlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1696367499"
+        "LastUpdated": "1696403825"
     }
 ]
