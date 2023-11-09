@@ -2,7 +2,7 @@
   "Author": "veyn",
   "Name": "vfallguy",
   "InternalName": "vfallguy",
-  "AssemblyVersion": "0.0.0.0",
+  "AssemblyVersion": "0.0.0.5",
   "Description": "Bot that does fall guys event automatically.",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 9,
