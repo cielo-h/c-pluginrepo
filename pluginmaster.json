@@ -4,7 +4,7 @@
         "Name": "vfallguy",
         "Description": "Bot that does fall guys event automatically.",
         "InternalName": "vfallguy",
-        "AssemblyVersion": "0.0.0.6",
+        "AssemblyVersion": "0.0.0.7",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
         "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/vfallguy/latest.zip",
@@ -13,7 +13,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/vfallguy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/vfallguy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1699511449"
+        "LastUpdated": "1699511853"
     },
     {
         "Author": "C",
@@ -35,7 +35,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1699511449"
+        "LastUpdated": "1699511853"
     },
     {
         "Author": "C",
@@ -55,7 +55,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1699511449"
+        "LastUpdated": "1699511853"
     },
     {
         "Author": "C",
@@ -77,6 +77,6 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/BigDamagePlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/BigDamagePlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1699511449"
+        "LastUpdated": "1699511853"
     }
 ]
