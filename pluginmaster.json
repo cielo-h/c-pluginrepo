@@ -13,7 +13,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/vfallguy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/vfallguy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1699932933"
+        "LastUpdated": "1711559029"
     },
     {
         "Author": "C",
@@ -35,7 +35,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1699932933"
+        "LastUpdated": "1711559029"
     },
     {
         "Author": "C",
@@ -55,14 +55,14 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1699932933"
+        "LastUpdated": "1711559029"
     },
     {
         "Author": "C",
         "Name": "BigDamage Plugin",
         "Description": "This plugin will show you the dream",
         "InternalName": "BigDamagePlugin",
-        "AssemblyVersion": "1.0.0.5",
+        "AssemblyVersion": "1.0.0.6",
         "RepoUrl": "https://github.com/cielo-h/BigDamagePlugin",
         "ApplicableVersion": "any",
         "Tags": [
@@ -77,6 +77,6 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/BigDamagePlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/BigDamagePlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1699932933"
+        "LastUpdated": "1711559029"
     }
 ]
