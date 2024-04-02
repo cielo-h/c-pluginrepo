@@ -13,7 +13,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/vfallguy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/vfallguy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1711559029"
+        "LastUpdated": "1712047302"
     },
     {
         "Author": "C",
@@ -35,14 +35,14 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1711559029"
+        "LastUpdated": "1712047302"
     },
     {
         "Author": "C",
         "Name": "DutyLeaver",
         "Description": "Allows you to instantly and Automatically leave duties with a single command.",
         "InternalName": "DutyLeaver",
-        "AssemblyVersion": "1.1.8.1",
+        "AssemblyVersion": "1.1.8.2",
         "RepoUrl": "https://github.com/cielo-h/DutyLeaver",
         "ApplicableVersion": "any",
         "Tags": [
@@ -55,7 +55,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1711559029"
+        "LastUpdated": "1712047302"
     },
     {
         "Author": "C",
@@ -77,6 +77,6 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/BigDamagePlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/BigDamagePlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1711559029"
+        "LastUpdated": "1712047302"
     }
 ]
