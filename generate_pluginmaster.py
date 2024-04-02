@@ -28,6 +28,7 @@ TRIMMED_KEYS = [
     'Tags',
     'DalamudApiLevel',
     'IsTestingExclusive',
+    'IconUrl',
 ]
 
 def main():

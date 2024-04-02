@@ -14,7 +14,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/cielo-h/c-pluginrepo/main/icons/DutyLeaver/DutyLeaver.png",
+  "IconUrl": "https://raw.githubusercontent.com/cielo-h/c-pluginrepo/main/icons/DutyLeaver.png",
   "Punchline": "Instant Leave Duties.",
   "AcceptsFeedback": true
 }
