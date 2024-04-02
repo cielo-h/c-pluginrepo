@@ -2,7 +2,7 @@
   "Author": "C",
   "Name": "DutyLeaver",
   "InternalName": "DutyLeaver",
-  "AssemblyVersion": "1.1.8.1",
+  "AssemblyVersion": "1.1.8.2",
   "Description": "Allows you to instantly and Automatically leave duties with a single command.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/cielo-h/DutyLeaver",
@@ -14,6 +14,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/cielo-h/c-pluginrepo/main/icons/DutyLeaver/DutyLeaver.png",
   "Punchline": "Instant Leave Duties.",
   "AcceptsFeedback": true
 }
