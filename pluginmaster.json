@@ -7,13 +7,14 @@
         "AssemblyVersion": "0.0.0.10",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
+        "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_vfallguy/3af43e6f7b7e63c6527ffa4ecc54190034bd60c4/icon2.png",
         "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/vfallguy/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/vfallguy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/vfallguy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1712047302"
+        "LastUpdated": "1712047721"
     },
     {
         "Author": "C",
@@ -35,7 +36,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1712047302"
+        "LastUpdated": "1712047721"
     },
     {
         "Author": "C",
@@ -49,13 +50,14 @@
             "utility"
         ],
         "DalamudApiLevel": 9,
+        "IconUrl": "https://raw.githubusercontent.com/cielo-h/c-pluginrepo/main/icons/DutyLeaver.png",
         "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1712047302"
+        "LastUpdated": "1712047721"
     },
     {
         "Author": "C",
@@ -77,6 +79,6 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/BigDamagePlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/BigDamagePlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1712047302"
+        "LastUpdated": "1712047721"
     }
 ]
