@@ -1,84 +1,19 @@
 [
     {
-        "Author": "veyn",
-        "Name": "vfallguy",
-        "Description": "Bot that does fall guys event automatically.",
-        "InternalName": "vfallguy",
-        "AssemblyVersion": "0.0.0.10",
+        "Author": "Caraxi",
+        "Name": "FPS Plugin",
+        "Description": "Display game FPS. It really is that simple.",
+        "InternalName": "FPSPlugin",
+        "AssemblyVersion": "1.7.0.0",
+        "RepoUrl": "https://github.com/Caraxi/FPSPlugin",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
-        "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_vfallguy/3af43e6f7b7e63c6527ffa4ecc54190034bd60c4/icon2.png",
-        "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/vfallguy/latest.zip",
+        "DalamudApiLevel": 10,
+        "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/vfallguy/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/vfallguy/latest.zip",
+        "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1712080349"
-    },
-    {
-        "Author": "C",
-        "Name": "ActionRecorder",
-        "Description": "Record action",
-        "InternalName": "ActionRecorder",
-        "AssemblyVersion": "1.0.0.5",
-        "RepoUrl": "https://github.com/cielo-h/ActionRecorder",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "action",
-            "record",
-            "util"
-        ],
-        "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ActionRecorder/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1712080349"
-    },
-    {
-        "Author": "C",
-        "Name": "DutyLeaver",
-        "Description": "Allows you to instantly and Automatically leave duties with a single command.",
-        "InternalName": "DutyLeaver",
-        "AssemblyVersion": "1.1.8.2",
-        "RepoUrl": "https://github.com/cielo-h/DutyLeaver",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 9,
-        "IconUrl": "https://raw.githubusercontent.com/cielo-h/c-pluginrepo/main/icons/DutyLeaver.png",
-        "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/DutyLeaver/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1712080349"
-    },
-    {
-        "Author": "C",
-        "Name": "BigDamage Plugin",
-        "Description": "This plugin will show you the dream",
-        "InternalName": "BigDamagePlugin",
-        "AssemblyVersion": "1.0.0.6",
-        "RepoUrl": "https://github.com/cielo-h/BigDamagePlugin",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "flytext",
-            "plugin",
-            "C"
-        ],
-        "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/BigDamagePlugin/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/BigDamagePlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/BigDamagePlugin/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1712080349"
+        "LastUpdated": "1720230851"
     }
 ]
