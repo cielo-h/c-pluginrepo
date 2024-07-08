@@ -1,5 +1,28 @@
 [
     {
+        "Author": "Taurenkey (Puni.sh)",
+        "Name": "Saucy",
+        "Description": "Automates certain Gold Saucer mini-games.",
+        "InternalName": "Saucy",
+        "AssemblyVersion": "1.4.0.0",
+        "RepoUrl": "https://github.com/PunishXIV/Saucy",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "gold saucer",
+            "mgp",
+            "automation"
+        ],
+        "DalamudApiLevel": 10,
+        "IconUrl": "https://love.puni.sh/resources/saucy.png",
+        "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Saucy/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Saucy/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Saucy/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1720454669"
+    },
+    {
         "Author": "C",
         "Name": "FPS Plugin-fork",
         "Description": "Display game FPS. It really is that simple.",
@@ -13,6 +36,6 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1720285672"
+        "LastUpdated": "1720454669"
     }
 ]
