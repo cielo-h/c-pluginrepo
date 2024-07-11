@@ -1,5 +1,23 @@
 [
     {
+        "Author": "UnknownX",
+        "Name": "A Realm Recorded",
+        "Description": "Adds additional features to the duty recorder and automatically starts it in most instances.",
+        "InternalName": "ARealmRecorded",
+        "AssemblyVersion": "1.0.0.3",
+        "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/ARealmRecorded/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ARealmRecorded/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ARealmRecorded/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ARealmRecorded/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1720669668"
+    },
+    {
         "Author": "Taurenkey (Puni.sh)",
         "Name": "Saucy",
         "Description": "Automates certain Gold Saucer mini-games.",
@@ -20,7 +38,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Saucy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1720454669"
+        "LastUpdated": "1720669668"
     },
     {
         "Author": "C",
@@ -36,6 +54,6 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1720454669"
+        "LastUpdated": "1720669668"
     }
 ]
