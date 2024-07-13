@@ -15,14 +15,14 @@
             "black",
             "mage"
         ],
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 10,
         "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/MPTickBar/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/MPTickBar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/MPTickBar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1720901374"
+        "LastUpdated": "1720901752"
     },
     {
         "Author": "UnknownX",
@@ -40,7 +40,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ARealmRecorded-fork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ARealmRecorded-fork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1720901374"
+        "LastUpdated": "1720901752"
     },
     {
         "Author": "Taurenkey (Puni.sh)",
@@ -63,7 +63,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Saucy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1720901374"
+        "LastUpdated": "1720901752"
     },
     {
         "Author": "C",
@@ -79,6 +79,6 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1720901374"
+        "LastUpdated": "1720901752"
     }
 ]
