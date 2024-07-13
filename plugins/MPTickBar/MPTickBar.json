@@ -14,9 +14,10 @@
     "black",
     "mage"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Visually tracks MP regeneration ticks (Black Mage only).",
   "AcceptsFeedback": true
