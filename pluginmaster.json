@@ -22,14 +22,14 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/MPTickBar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/MPTickBar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1720798626"
+        "LastUpdated": "1720901374"
     },
     {
         "Author": "UnknownX",
         "Name": "A Realm Recorded-fork",
         "Description": "Adds additional features to the duty recorder and automatically starts it in most instances.",
         "InternalName": "ARealmRecorded-fork",
-        "AssemblyVersion": "1.0.0.4",
+        "AssemblyVersion": "1.0.0.5",
         "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
@@ -40,7 +40,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ARealmRecorded-fork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ARealmRecorded-fork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1720798626"
+        "LastUpdated": "1720901374"
     },
     {
         "Author": "Taurenkey (Puni.sh)",
@@ -63,7 +63,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Saucy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1720798626"
+        "LastUpdated": "1720901374"
     },
     {
         "Author": "C",
@@ -79,6 +79,6 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1720798626"
+        "LastUpdated": "1720901374"
     }
 ]
