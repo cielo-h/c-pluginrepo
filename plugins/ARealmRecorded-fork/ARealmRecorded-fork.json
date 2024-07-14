@@ -2,7 +2,7 @@
   "Author": "UnknownX",
   "Name": "A Realm Recorded-fork",
   "InternalName": "ARealmRecorded-fork",
-  "AssemblyVersion": "1.0.0.5",
+  "AssemblyVersion": "1.0.0.6",
   "Description": "Adds additional features to the duty recorder and automatically starts it in most instances.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded",
