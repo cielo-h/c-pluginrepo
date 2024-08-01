@@ -1,48 +1,5 @@
 [
     {
-        "Author": "Marconsou",
-        "Name": "MP Tick Bar",
-        "Description": "-Fast Fire III marker on the bar.\n-Autostarts the bar before combat starts.\n-Countdown with time offset.\n-Compatible with FFXIV Material UI.",
-        "InternalName": "MPTickBar",
-        "AssemblyVersion": "1.4.2.3",
-        "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "mp",
-            "tick",
-            "bar",
-            "blm",
-            "black",
-            "mage"
-        ],
-        "DalamudApiLevel": 10,
-        "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/MPTickBar/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/MPTickBar/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/MPTickBar/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1721352942"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "A Realm Recorded-fork",
-        "Description": "Adds additional features to the duty recorder and automatically starts it in most instances.",
-        "InternalName": "ARealmRecorded-fork",
-        "AssemblyVersion": "1.0.0.7",
-        "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 10,
-        "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/ARealmRecorded/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ARealmRecorded-fork/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ARealmRecorded-fork/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/ARealmRecorded-fork/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1721352942"
-    },
-    {
         "Author": "Taurenkey (Puni.sh)",
         "Name": "Saucy",
         "Description": "Automates certain Gold Saucer mini-games.",
@@ -63,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Saucy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1721352942"
+        "LastUpdated": "1722472972"
     },
     {
         "Author": "C",
@@ -79,6 +36,6 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1721352942"
+        "LastUpdated": "1722472972"
     }
 ]
