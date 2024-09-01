@@ -1,5 +1,21 @@
 [
     {
+        "Author": "C",
+        "Name": "FPS Plugin-fork",
+        "Description": "Display game FPS. It really is that simple.",
+        "InternalName": "FPSPlugin-fork",
+        "AssemblyVersion": "1.7.0.1",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1725176448"
+    },
+    {
         "Author": "Taurenkey (Puni.sh)",
         "Name": "Saucy",
         "Description": "Automates certain Gold Saucer mini-games.",
@@ -20,22 +36,6 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Saucy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1722472972"
-    },
-    {
-        "Author": "C",
-        "Name": "FPS Plugin-fork",
-        "Description": "Display game FPS. It really is that simple.",
-        "InternalName": "FPSPlugin-fork",
-        "AssemblyVersion": "1.7.0.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 10,
-        "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1722472972"
+        "LastUpdated": "1725176448"
     }
 ]
