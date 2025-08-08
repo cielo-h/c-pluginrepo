@@ -2,7 +2,7 @@
   "Author": "C",
   "Name": "FPS Plugin-fork",
   "InternalName": "FPSPlugin-fork",
-  "AssemblyVersion": "1.7.0.4",
+  "AssemblyVersion": "1.7.0.5",
   "Description": "Display game FPS. It really is that simple.",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 13,
