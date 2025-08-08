@@ -4,7 +4,7 @@
         "Name": "FPS Plugin-fork",
         "Description": "Display game FPS. It really is that simple.",
         "InternalName": "FPSPlugin-fork",
-        "AssemblyVersion": "1.7.0.4",
+        "AssemblyVersion": "1.7.0.5",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 13,
         "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
@@ -13,6 +13,6 @@
         "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/FPSPlugin-fork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1754397081"
+        "LastUpdated": "1754651647"
     }
 ]
